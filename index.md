@@ -5,12 +5,11 @@ description: Machine Learning Engineer
 ---
 
 ## About Me
-I am a Machine Learning Engineer at Infocusp Innovations and a former Research Fellow at IIT Madras.  
-My primary research interests are reinforcement learning and optimization for control systems and healthcare.
-
-I currently work on sleep stage detection and sleep enhancement using deep learning.
+I am a Machine Learning Engineer at Infocusp Innovations and a former Research Fellow at IIT Madras.  My primary research interests are reinforcement learning and optimization for control systems and healthcare. 
 
 My long-term goal is to build AI systems that operate reliably in real-world scientific and engineering pipelines, satisfying constraints, uncertainty, and safety.
+
+I currently work on sleep stage detection and sleep enhancement using EEG and physiological data.
 
 ---
 
