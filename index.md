@@ -28,7 +28,7 @@ I currently work on sleep stage detection and sleep enhancement using deep learn
 ---
 
 ## Education
-* **B.Tech in Computer Science**  Indian Institute of Technology (IIT), Bhilai
+* **B.Tech in Computer Science** at Indian Institute of Technology (IIT), Bhilai  
   *GPA: 9.12/10*
 
 ---
