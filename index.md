@@ -15,7 +15,7 @@ I currently work on sleep stage detection and sleep enhancement using EEG and ph
 
 ## Publications & Blogs
 ### Selected Publications
-* Gupta, A., Lenin, B., Current, S. et al. **"PURE: Policy-guided Unbiased REpresentations for structure-constrained molecular generation."** J. Cheminformatics [[Paper Link](https://doi.org/10.1186/s13321-025-01090-5)]
+* Gupta, A., Lenin, B., Current, S. et al. **"PURE: Policy-guided Unbiased REpresentations for structure-constrained molecular generation."** *J. Cheminformatics* [[Paper Link](https://doi.org/10.1186/s13321-025-01090-5)]
 
 ### Writing
 * **Reinforcement Learning from Human Feedback (RLHF)** [RLHF: An Independent Illustration](https://infocusp.github.io/llm_seminar_series/session_4/part_2_finetuning_lms_to_human_preferences/RLHF/)
