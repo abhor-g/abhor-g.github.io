@@ -33,4 +33,4 @@ I currently work on sleep stage detection and sleep enhancement using deep learn
 
 ---
 
-[LinkedIn]([https://linkedin.com/in/abhorgupta](https://in.linkedin.com/in/abhor-gupta-565386145)) | [GitHub](https://github.com/mrscabbycreature)
+[LinkedIn](https://in.linkedin.com/in/abhor-gupta-565386145) | [GitHub](https://github.com/mrscabbycreature)
