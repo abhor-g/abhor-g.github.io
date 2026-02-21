@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Abhor Gupta
-description: Machine Learning Engineer & Research Fellow (RL)
+description: Machine Learning Engineer
 ---
 
 ## About Me
 I am a Machine Learning Engineer at Infocusp Innovations and a former Research Fellow IIT Madras. My primary interest is in the application of Reinforcement Learning to solve complex problems, especially in control systems and healthcare.
 
-I currently work on sleep stage detection and sleep enhancement using AI.
+I currently work on sleep stage detection and sleep enhancement using deep learning.
 
 ---
 
@@ -21,14 +21,14 @@ I currently work on sleep stage detection and sleep enhancement using AI.
 ---
 
 ## Experience
-* **Machine Learning Engineer** | Infocusp Innovations *Feb 2024 – Present* 
-* **Research Fellow (RL)** | IIT Madras *Oct 2021 – Sept 2023*
-* **Data Scientist** | Atonarp *June 2020 – July 2021*
+* **Machine Learning Engineer** at Infocusp Innovations (*Feb 2024 – Present*)
+* **Research Fellow (RL)** at IIT Madras (*Oct 2021 – Sept 2023*)
+* **Data Scientist** at Atonarp (*June 2020 – July 2021*)
 
 ---
 
 ## Education
-* **B.Tech in Computer Science** | Indian Institute of Technology (IIT), Bhilai
+* **B.Tech in Computer Science**  Indian Institute of Technology (IIT), Bhilai
   *GPA: 9.12/10*
 
 ---
