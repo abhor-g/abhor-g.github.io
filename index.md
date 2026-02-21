@@ -10,6 +10,8 @@ My primary research interests are reinforcement learning and optimization for co
 
 I currently work on sleep stage detection and sleep enhancement using deep learning.
 
+My long-term goal is to build AI systems that operate reliably in real-world scientific and engineering pipelines, satisfying constraints, uncertainty, and safety.
+
 ---
 
 ## Publications & Blogs
