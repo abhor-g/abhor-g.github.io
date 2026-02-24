@@ -5,9 +5,9 @@ description: Machine Learning Engineer
 ---
 
 ## About Me
-I am a Machine Learning Engineer at Infocusp Innovations and a former Research Fellow at IIT Madras. My research interests lie at the intersection of reinforcement learning and human-centered AI. Methodologically, I focus on offline and safe reinforcement learning, with applications to control systems and healthcare. From a problem-driven perspective, I am interested in social behavior alignment, policy design, personalized education, and optimal human–AI and human–human pairing.
+I am a Machine Learning Engineer at Infocusp Innovations and a former Research Fellow at IIT Madras. My primary research interests are reinforcement learning and optimization for control systems and healthcare. 
 
-My long-term goal is to build AI systems that can reliably operate in real-world scientific and engineering pipelines, respecting constraints, uncertainty, and safety, while aligning with human values and societal objectives.
+My long-term goal is to build AI systems that operate reliably in real-world scientific and engineering pipelines, satisfying constraints, uncertainty, and safety.
 
 Currently, I work on sleep stage detection and sleep enhancement using EEG and multimodal physiological signals.
 
