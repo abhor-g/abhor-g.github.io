@@ -23,10 +23,21 @@ Currently, I work on sleep stage detection and sleep enhancement using EEG and m
 ---
 
 ## Experience
-* **Machine Learning Engineer** at Infocusp Innovations (*Feb 2024 – Present*)
-* **Research Fellow (RL)** at IIT Madras (*Oct 2021 – Sept 2023*)
-* **Data Scientist** at Atonarp (*June 2020 – July 2021*)
 
+#### **Machine Learning Engineer** at Infocusp Innovations (*Feb 2024 – Present*)
+- Designed and deployed an end-to-end pipeline for automated sleep stage detection using EEG data.
+- Developed model interpretability methods using Grad-CAM, signal processing techniques, and hypnodensity-based analyses.
+- Built agentic workflows for intelligent task automation and system integration.
+
+#### **Research Fellow (Reinforcement Learning)** at Indian Institute of Technology (IIT) Madras (*Oct 2021 – Sept 2023*)
+- Developed **PURE**, a reinforcement learning framework for molecular lead optimization using goal-conditioned and offline RL.
+- Addressed key challenges in computational drug design, including metric leakage, impedance mismatch, and molecular synthesizability constraints.
+- Achieved state-of-the-art benchmark performance and conducted a case study on Sorafenib (anti-cancer drug).
+- Published the work in the Journal of Cheminformatics.
+
+#### **Data Scientist** at Atonarp Microsystem India Pvt. Ltd. (*June 2020 – July 2021*)
+- Developed machine learning models to predict analyte concentrations from spectrometer data.
+- Designed domain-specific data augmentation strategies to improve robustness and generalization.
 ---
 
 ## Education
