@@ -29,7 +29,7 @@ Currently, I work on sleep stage detection and sleep enhancement using EEG and m
   - Developed model interpretability methods using Grad-CAM, signal processing techniques, and hypnodensity-based analyses.
   - Built agentic workflows for intelligent task automation and system integration.
 
-- **Research Fellow (Reinforcement Learning)** at Indian Institute of Technology (IIT) Madras (*Oct 2021 – Sept 2023*)
+- **Pre-doctoral Researcher (Reinforcement Learning)** at Indian Institute of Technology (IIT) Madras (*Oct 2021 – Sept 2023*)
   - Developed **PURE**, a reinforcement learning framework for molecular lead optimization using goal-conditioned and offline RL.
   - Addressed key challenges in computational drug design, including metric leakage, impedance mismatch, and molecular synthesizability constraints.
   - Achieved state-of-the-art benchmark performance and conducted a case study on Sorafenib (anti-cancer drug).
